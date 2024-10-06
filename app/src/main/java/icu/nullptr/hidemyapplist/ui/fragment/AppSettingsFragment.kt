@@ -12,8 +12,8 @@ import androidx.navigation.fragment.navArgs
 import androidx.preference.*
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
-import com.tsng.hidemyapplist.R
-import com.tsng.hidemyapplist.databinding.FragmentSettingsBinding
+import fuck.app.check.R
+import fuck.app.check.databinding.FragmentSettingsBinding
 import icu.nullptr.hidemyapplist.common.JsonConfig
 import icu.nullptr.hidemyapplist.service.ConfigManager
 import icu.nullptr.hidemyapplist.ui.util.navController

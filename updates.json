@@ -1,0 +1,8 @@
+{
+    "release": {
+        "versionName": "%string%",
+        "versionCode": %int%,
+        "downloadUrl": "https://github.com/Dr-TSNG/Hide-My-Applist/releases/tag/V3.3"
+    },
+    "beta": null
+}

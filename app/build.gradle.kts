@@ -18,7 +18,7 @@ if (officialBuild) {
 }
 
 android {
-    namespace = "com.tsng.hidemyapplist"
+    namespace = "fuck.app.check"
 
     buildFeatures {
         buildConfig = true
