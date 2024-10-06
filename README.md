@@ -13,7 +13,14 @@
 - English  
 - [中文（简体）](README_zh_CN.md)
 
-## About this module
+# !!! What are you looking at? This is not an official build.
+### Visit <https://github.com/Dr-TSNG/Hide-My-Applist> for official builds
+
+# Reminder: Changing the package name is not an appropriate method to evade detection.
+### For devices running Android 10 or below, you can attempt to use https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support for data isolation.
+
+
+## About this module 
 
 Although it's bad practice to detect the installation of specific apps, not every app using root provides random package name support. In this case, if apps related to root (such as Fake Location and Storage Isolation) are detected, it is tantamount to detecting that the device is rooted.
 

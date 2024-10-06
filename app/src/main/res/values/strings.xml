@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Hide My Applist</string>
+    <string name="app_name">Hide My Applist-Mod</string>
 
     <string name="title_home">Home</string>
     <string name="title_logs">Logs</string>
@@ -37,7 +37,7 @@
     <string name="home_xposed_service_on">System service running [%d]</string>
     <string name="home_xposed_service_off">System service not running</string>
     <string name="home_xposed_service_old">Module updated, need reboot</string>
-    <string name="home_xposed_filter_count">Hide My Applist has filtered total %d requests</string>
+    <string name="home_xposed_filter_count">Warning: This is not the official version, but an unofficial repackaged version. If you are unaware, please uninstall it immediately.\n\nHide My Applist has filtered total %d requests</string>
     <string name="home_manage">Manage</string>
     <string name="home_detection_test">Detection test</string>
     <string name="home_download_test_app_title">Download test app</string>
@@ -137,7 +137,7 @@
 
     <!-- About -->
     <string name="about_description">
-        Although It is incorrect to detect specific app installation, yet not every app using root provides random package name support. In this case, detected apps that use root (such as Fake Location and Storage Isolation) is equal to detected root itself.\n\nAt the same time, some smart apps use various loopholes to acquire your app list, so that it can draw a persona for you.\n\nThis module provides some methods to test whether you have already hidden your applist nicely. Also, it can work as an Xposed module to hide some apps or reject app list requests to protect your privacy.
+        Warning: This is not the official version, but an unofficial repackaged version. If you are unaware, please uninstall it immediately.\n\n\n\nAlthough It is incorrect to detect specific app installation, yet not every app using root provides random package name support. In this case, detected apps that use root (such as Fake Location and Storage Isolation) is equal to detected root itself.\n\nAt the same time, some smart apps use various loopholes to acquire your app list, so that it can draw a persona for you.\n\nThis module provides some methods to test whether you have already hidden your applist nicely. Also, it can work as an Xposed module to hide some apps or reject app list requests to protect your privacy.
     </string>
     <string name="about_how_to_use_title">How to use this module</string>
     <string name="about_how_to_use_description_1">
@@ -147,7 +147,8 @@
         Config modification effective in real time.
     </string>
     <string name="about_developer">Developer</string>
-    <string name="about_support">Support and feedback</string>
+    <string name="about_support">Official Original Support and Feedback</string>
+    <string name="about_unofficial_support">Unofficial Modified Version Support and Feedback</string>
     <string name="about_open_source">Open source licenses</string>
 
     <!-- Colors -->

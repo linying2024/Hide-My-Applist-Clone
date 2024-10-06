@@ -4,8 +4,8 @@ import android.annotation.SuppressLint
 import android.widget.ImageView
 import android.widget.TextView
 import com.drakeet.about.*
-import com.tsng.hidemyapplist.BuildConfig
-import com.tsng.hidemyapplist.R
+import fuck.app.check.BuildConfig
+import fuck.app.check.R
 
 class AboutActivity : AbsAboutActivity() {
 
@@ -33,6 +33,8 @@ class AboutActivity : AbsAboutActivity() {
         items.add(Contributor(R.drawable.cont_icon_designer, "辉少菌", "Icon designer", "http://www.coolapk.com/u/1560270"))
         items.add(Line())
         items.add(Contributor(R.drawable.cont_cpp_master, "LoveSy", "Idea provider", "https://github.com/yujincheng08"))
+        items.add(Line())
+        items.add(Contributor(R.drawable.cont_mod_author, "linying23333", "Mod", "https://github.com/linying2024"))
 
         items.add(Category(getString(R.string.about_support)))
         items.add(Card("Github\nhttps://github.com/Dr-TSNG/Hide-My-Applist"))
@@ -40,6 +42,9 @@ class AboutActivity : AbsAboutActivity() {
         items.add(Card("Telegram\nhttps://t.me/HideMyApplist"))
         items.add(Line())
         items.add(Card("Play store\nhttps://play.google.com/store/apps/details?id=com.tsng.hidemyapplist"))
+
+        items.add(Category(getString(R.string.about_unofficial_support)))
+        items.add(Card("Github\nhttps://github.com/linying2024/Hide-My-Applist-Clone"))
 
         items.add(Category(getString(R.string.about_open_source)))
         items.add(License("MultiType", "drakeet", License.APACHE_2, "https://github.com/drakeet/MultiType"))

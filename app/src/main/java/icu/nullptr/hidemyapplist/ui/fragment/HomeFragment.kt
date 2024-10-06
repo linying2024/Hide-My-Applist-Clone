@@ -16,9 +16,9 @@ import by.kirich1409.viewbindingdelegate.viewBinding
 import com.google.android.gms.ads.AdRequest
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import com.google.android.material.transition.MaterialElevationScale
-import com.tsng.hidemyapplist.BuildConfig
-import com.tsng.hidemyapplist.R
-import com.tsng.hidemyapplist.databinding.FragmentHomeBinding
+import fuck.app.check.BuildConfig
+import fuck.app.check.R
+import fuck.app.check.databinding.FragmentHomeBinding
 import icu.nullptr.hidemyapplist.data.fetchLatestUpdate
 import icu.nullptr.hidemyapplist.hmaApp
 import icu.nullptr.hidemyapplist.service.ConfigManager
