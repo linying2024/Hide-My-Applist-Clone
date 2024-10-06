@@ -17,7 +17,7 @@
 ### 访问 <https://github.com/Dr-TSNG/Hide-My-Applist> 获取官方构建
 
 # 提醒:修改包名不是一个合适的躲避检测的方法
-### 安卓10-可以尝试<https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support>进行数据隔离
+### 对于Android 10以下的设备，您可以尝试使用<https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support >进行数据隔离
 
 ## 关于该模块
 虽然“检测安装的应用”是不正确的做法，但是并不是所有的与 root 相关联的插件类应用都提供了随机包名支持。这就意味着检测到安装了此类应用（如 Fake Location 、存储空间隔离）与检测到了 root 本身区别不大。（会使用检测手段的 app 可不会认为你是在“我就蹭蹭不进去”）  

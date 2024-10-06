@@ -17,7 +17,7 @@
 ### Visit <https://github.com/Dr-TSNG/Hide-My-Applist> for official builds
 
 # Reminder: Changing the package name is not an appropriate method to evade detection.
-### For Android 10, you can try <https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support> for data isolation.
+### For devices running Android 10 or below, you can attempt to use https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support for data isolation.
 
 
 ## About this module 
