@@ -7,8 +7,8 @@ import android.os.Build
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.tsng.hidemyapplist.R
-import com.tsng.hidemyapplist.databinding.LogItemViewBinding
+import fuck.app.check.R
+import fuck.app.check.databinding.LogItemViewBinding
 import icu.nullptr.hidemyapplist.service.PrefManager
 import icu.nullptr.hidemyapplist.ui.util.ThemeUtils.themeColor
 import java.util.regex.Pattern

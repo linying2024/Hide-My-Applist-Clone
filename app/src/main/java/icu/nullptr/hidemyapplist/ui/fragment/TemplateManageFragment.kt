@@ -11,8 +11,8 @@ import androidx.navigation.fragment.FragmentNavigatorExtras
 import androidx.recyclerview.widget.LinearLayoutManager
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.google.android.material.transition.MaterialContainerTransform
-import com.tsng.hidemyapplist.R
-import com.tsng.hidemyapplist.databinding.FragmentTemplateManageBinding
+import fuck.app.check.R
+import fuck.app.check.databinding.FragmentTemplateManageBinding
 import icu.nullptr.hidemyapplist.common.JsonConfig
 import icu.nullptr.hidemyapplist.service.ConfigManager
 import icu.nullptr.hidemyapplist.ui.adapter.TemplateAdapter
